@@ -1,0 +1,51 @@
+{
+  "originHash" : "12ae7f954f0509dfcae8ae0099bf6af69babf1aff86c82634bbd25255db86783",
+  "pins" : [
+    {
+      "identity" : "aoc-helpers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/juliand665/AoC-Helpers",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0fc80461c59c3a468fce647b07e8d55d64aa45c6"
+      }
+    },
+    {
+      "identity" : "handyoperators",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/juliand665/HandyOperators",
+      "state" : {
+        "revision" : "39f39ae74471112d54152227bb70053b59ea796f",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "simpleparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/juliand665/SimpleParser",
+      "state" : {
+        "branch" : "main",
+        "revision" : "34f26c03dddacd91618c7023f608c6295d3d3a66"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms.git",
+      "state" : {
+        "revision" : "87e50f483c54e6efd60e885f7f5aa946cee68023",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
